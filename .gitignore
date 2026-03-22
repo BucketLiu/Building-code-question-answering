@@ -1,0 +1,22 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+*.log
+*.tmp
+
+# Model
+*.pt
+*.pth
+*.ckpt
+
+# FAISS
+faiss/
+
+# OS
+.DS_Store
