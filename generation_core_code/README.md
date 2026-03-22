@@ -22,4 +22,4 @@ Refer to the script comments for details.
 
 > ⚠️ This folder includes the core code.  
 >
-> Models are not included in this repository and need to be downloaded separately (see the original paper for sources).
+> Due to file size limitations on GitHub uploads, model files are not included in this repository and need to be downloaded separately (access provided in the original paper).

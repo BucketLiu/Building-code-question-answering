@@ -14,4 +14,4 @@ Refer to the script comments for details.
 
 > ⚠️ This folder includes the core code and pre-trained model configurations.  
 >
-> Pre-trained weights are not included in this repository and need to be downloaded separately (see the original paper for sources).
+> Due to file size limitations on GitHub, this repository does not include all pre-trained weights and needs to be downloaded separately (please refer to the original paper for source code).
